@@ -28,6 +28,7 @@ return array(
 
   // invoice
   'invoice' => 'Factuur',
+  'creditnote' => 'Creditnota',
   'client' => 'Klant',
   'invoice_date' => 'Factuurdatum',
   'due_date' => 'Vervaldatum',
@@ -50,6 +51,7 @@ return array(
   'invoice_design_id' => 'Ontwerp',
   'terms' => 'Voorwaarden',
   'your_invoice' => 'Jouw factuur',
+  'your_creditnote' => 'Creditnota',
 
   'remove_contact' => 'Verwijder contact',
   'add_contact' => 'Voeg contact toe',

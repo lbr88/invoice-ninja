@@ -28,6 +28,7 @@ return array(
 
   // invoice
   'invoice' => 'Fattura',
+  'creditnote' => 'Nota di accredito',
   'client' => 'Cliente',
   'invoice_date' => 'Data Fattura',
   'due_date' => 'Scadenza Fattura',
@@ -50,6 +51,7 @@ return array(
   'invoice_design_id' => 'Stile',
   'terms' => 'Condizioni',
   'your_invoice' => 'Tua Fattura',
+  'your_creditnote' => 'La nota di accredito',
 
   'remove_contact' => 'Rimuovi contatto',
   'add_contact' => 'Aggiungi contatto',

@@ -28,6 +28,7 @@ return array(
 
    // invoice
    'invoice' => 'Factura de venta', //Factura de Venta-Colombia
+   'creditnote' => 'Nota de crédito', //Factura de Venta-Colombia
    'client' => 'Cliente',
    'invoice_date' => 'Fecha de factura',
    'due_date' => 'Fecha de pago',
@@ -50,6 +51,7 @@ return array(
    'invoice_design_id' => 'Diseño',
    'terms' => 'Términos',
    'your_invoice' => 'Tu factura',
+   'your_creditnote' => 'Tu nota de crédito',
    'remove_contact' => 'Eliminar contacto',
    'add_contact' => 'Añadir contacto',
    'create_new_client' => 'Crear nuevo cliente',

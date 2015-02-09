@@ -28,6 +28,7 @@ return array(
 
   // invoice
   'invoice' => 'Rechnung',
+  'creditnote' => 'Korrekturbeleg',
   'client' => 'Kunde',
   'invoice_date' => 'Rechnungsdatum',
   'due_date' => 'Fällig am',
@@ -50,6 +51,7 @@ return array(
   'invoice_design_id' => 'Vorlage',
   'terms' => 'Bedingungen',
   'your_invoice' => 'Ihre Rechnung',
+  'your_creditnote' => 'Ihre Korrekturbeleg',
   
   'remove_contact' => 'Kontakt löschen',
   'add_contact' => 'Kontakt hinzufügen',

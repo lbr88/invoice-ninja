@@ -27,6 +27,7 @@ return array(
 
   // invoice
   'invoice' => 'Fatura',
+  'creditnote' => 'Nota de crédito',
   'client' => 'Cliente',
   'invoice_date' => 'Data da Fatura',
   'due_date' => 'Data de Vencimento',
@@ -49,6 +50,7 @@ return array(
   'invoice_design_id' => 'Design',
   'terms' => 'Termos',
   'your_invoice' => 'Sua Fatura',
+  'your_creditnote' => 'Nota de crédito',
 
   'remove_contact' => 'Remover contato',
   'add_contact' => 'Adicionar contato',

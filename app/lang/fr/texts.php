@@ -28,6 +28,7 @@ return array(
 
   // invoice
   'invoice' => 'Facture',
+  'creditnote' => 'Note de crédit',
   'client' => 'Client',
   'invoice_date' => 'Date de la facture',
   'due_date' => 'Date d\'échéance',
@@ -50,6 +51,7 @@ return array(
   'invoice_design_id' => 'Design', //if you speak about invoice's design -> "Modèle"
   'terms' => 'Conditions',
   'your_invoice' => 'Votre Facture',
+  'your_creditnote' => 'Votre note de crédit',
 
   'remove_contact' => 'Supprimer un contact',
   'add_contact' => 'Ajouter un contact',

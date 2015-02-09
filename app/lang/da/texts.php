@@ -30,6 +30,7 @@ return array(
 
   // invoice
   'invoice' => 'Faktura',
+  'creditnote' => 'Kreditnota',
   'client' => 'Klient',
   'invoice_date' => 'Faktureringsdato',
   'due_date' => 'Betalingsfrist',
@@ -40,7 +41,7 @@ return array(
   'frequency_id' => 'Frekvens',
   'discount' => 'Rabat',
   'taxes' => 'Skatter',
-  'tax' => 'Skat',
+  'tax' => 'Moms',
   'item' => 'Produkttype',
   'description' => 'Beskrivelse',
   'unit_cost' => 'Pris',
@@ -52,6 +53,7 @@ return array(
   'invoice_design_id' => 'Design',
   'terms' => 'Vilkår',
   'your_invoice' => 'Din faktura',
+  'your_creditnote' => 'Din kreditnota',
 
   'remove_contact' => 'Fjern kontakt',
   'add_contact' => 'Tilføj til kontakt',

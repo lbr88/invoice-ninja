@@ -28,6 +28,7 @@ return array(
 
  // invoice
  'invoice' => 'Sąkaita faktūra',
+ 'creditnote' => 'Credit note',
  'client' => 'Klientas',
  'invoice_date' => 'Išrašymo data',
  'due_date' => 'Apmokėjimo Data',
@@ -50,6 +51,7 @@ return array(
  'invoice_design_id' => 'Dizainas',
  'terms' => 'Sąlygos',
  'your_invoice' => 'Tavo sąskaitos',
+ 'your_creditnote' => 'Your Credit Note',
 
  'remove_contact' => 'Pašalinti kontaktą',
  'add_contact' => 'Pridėti kontaktą',

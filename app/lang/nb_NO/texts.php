@@ -28,6 +28,7 @@ return array(
 
   // invoice
   'invoice' => 'Faktura',
+  'creditnote' => 'Kreditnota',
   'client' => 'Klient',
   'invoice_date' => 'Faktureringsdato',
   'due_date' => 'Betalingsfrist',
@@ -50,6 +51,7 @@ return array(
   'invoice_design_id' => 'Design',
   'terms' => 'Vilk&#229;r',
   'your_invoice' => 'Din faktura',
+  'your_creditnote' => 'Din kreditnota',
 
   'remove_contact' => 'Fjern kontakt',
   'add_contact' => 'Legg til kontakt',
