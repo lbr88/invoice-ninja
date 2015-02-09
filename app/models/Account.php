@@ -188,6 +188,7 @@ class Account extends Eloquent
         $data = [];
         $fields = [
             'invoice',
+            'creditnote',
             'invoice_date',
             'due_date',
             'invoice_number',
@@ -205,6 +206,7 @@ class Account extends Eloquent
             'balance_due',
             'terms',
             'your_invoice',
+            'your_creditnote',
             'quote',
             'your_quote',
             'quote_date',
